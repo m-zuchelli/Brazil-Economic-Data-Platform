@@ -14,8 +14,26 @@ export default function Dashboard() {
   const indicatorsState = useIndicators()
   const latestState = useLatest()
   const [selected, setSelected] = useState("selic")
-  const [start, setStart] = useState("2019-01-01")
-  const [end, setEnd] = useState("2023-12-01")
+  const today = new Date().toISOString().slice(0, 10)
+  const [start, setStart] = useState("2014-01-01")
+  const [end, setEnd] = useState(today)
+  const indicatorInfo: Record<string, { title: string; description: string }> = {
+    selic: {
+      title: "Selic",
+      description:
+        "Taxa basica de juros da economia brasileira, definida pelo Banco Central e usada como referencia para emprestimos e investimentos.",
+    },
+    usd_brl: {
+      title: "USD/BRL",
+      description:
+        "Taxa de cambio entre o dolar americano e o real brasileiro, indicando quanto de real compra 1 dolar.",
+    },
+    ipca: {
+      title: "IPCA",
+      description:
+        "Indice oficial de inflacao ao consumidor no Brasil, medido pelo IBGE e usado em metas de inflacao.",
+    },
+  }
 
   useEffect(() => {
     if (indicatorsState.data.length && !indicatorsState.data.includes(selected)) {
@@ -99,6 +117,15 @@ export default function Dashboard() {
               onChange={setSelected}
             />
             <DateRange start={start} end={end} onStartChange={setStart} onEndChange={setEnd} />
+          </div>
+          <div className="mt-4 rounded-lg border border-slate-200 bg-slate-50 p-4">
+            <p className="text-sm font-semibold text-slate-700">
+              {indicatorInfo[selected]?.title ?? selected.toUpperCase()}
+            </p>
+            <p className="mt-1 text-sm text-slate-600">
+              {indicatorInfo[selected]?.description ??
+                "Sem descricao disponivel para este indicador."}
+            </p>
           </div>
         </section>
 
