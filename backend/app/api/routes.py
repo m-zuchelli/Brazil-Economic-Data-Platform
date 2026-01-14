@@ -1,11 +1,16 @@
 from datetime import date
+
 from fastapi import APIRouter, HTTPException, Query
-from app.schemas.models import IndicatorsResponse, SeriesResponse, StatsResponse, LatestResponse
-from app.services.settings import get_settings
-from app.services.queries import list_indicators, get_series, get_stats, get_latest
+
 from app.etl.runner import run_etl
+from app.schemas.models import IndicatorsResponse, LatestResponse, SeriesResponse, StatsResponse
+from app.services.queries import get_latest, get_series, get_stats, list_indicators
+from app.services.settings import get_settings
 
 router = APIRouter()
+INDICATOR_QUERY = Query(...)
+START_QUERY = Query(...)
+END_QUERY = Query(...)
 
 
 @router.get("/health")
@@ -28,9 +33,9 @@ def indicators():
 
 @router.get("/series", response_model=SeriesResponse)
 def series(
-    indicator: str = Query(...),
-    start: date = Query(...),
-    end: date = Query(...),
+    indicator: str = INDICATOR_QUERY,
+    start: date = START_QUERY,
+    end: date = END_QUERY,
 ):
     settings = get_settings()
     data = get_series(settings, indicator, start, end)
@@ -41,9 +46,9 @@ def series(
 
 @router.get("/stats", response_model=StatsResponse)
 def stats(
-    indicator: str = Query(...),
-    start: date = Query(...),
-    end: date = Query(...),
+    indicator: str = INDICATOR_QUERY,
+    start: date = START_QUERY,
+    end: date = END_QUERY,
 ):
     settings = get_settings()
     stats_data = get_stats(settings, indicator, start, end)

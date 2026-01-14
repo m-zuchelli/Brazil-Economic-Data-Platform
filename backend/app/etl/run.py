@@ -1,5 +1,5 @@
-from app.services.settings import get_settings
 from app.etl.runner import run_etl
+from app.services.settings import get_settings
 
 
 def main() -> None:

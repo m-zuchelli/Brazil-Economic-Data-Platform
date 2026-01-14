@@ -1,11 +1,14 @@
 from datetime import date
+
 from app.db.connection import get_connection
 from app.services.settings import Settings
 
 
 def list_indicators(settings: Settings) -> list[str]:
     with get_connection(settings) as conn:
-        rows = conn.execute("SELECT DISTINCT indicator FROM indicators ORDER BY indicator").fetchall()
+        rows = conn.execute(
+            "SELECT DISTINCT indicator FROM indicators ORDER BY indicator"
+        ).fetchall()
     return [row[0] for row in rows]
 
 

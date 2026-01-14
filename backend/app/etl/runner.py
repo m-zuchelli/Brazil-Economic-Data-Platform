@@ -1,7 +1,9 @@
 import csv
 from datetime import date
 from typing import Iterable
+
 from pydantic import BaseModel, ValidationError
+
 from app.db.connection import get_connection
 from app.services.settings import Settings
 
