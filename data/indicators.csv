@@ -1,0 +1,361 @@
+date,indicator,value,source
+2014-01-01,selic,8.5458,Banco Central
+2014-01-01,ipca,5.5738,IBGE
+2014-01-01,usd_brl,3.1938,Banco Central
+2014-02-01,selic,8.3458,Banco Central
+2014-02-01,ipca,5.5806,IBGE
+2014-02-01,usd_brl,3.2206,Banco Central
+2014-03-01,selic,8.2458,Banco Central
+2014-03-01,ipca,5.6592,IBGE
+2014-03-01,usd_brl,3.2351,Banco Central
+2014-04-01,selic,8.1251,Banco Central
+2014-04-01,ipca,5.6633,IBGE
+2014-04-01,usd_brl,3.3321,Banco Central
+2014-05-01,selic,8.2097,Banco Central
+2014-05-01,ipca,5.5084,IBGE
+2014-05-01,usd_brl,3.2829,Banco Central
+2014-06-01,selic,8.2703,Banco Central
+2014-06-01,ipca,5.4507,IBGE
+2014-06-01,usd_brl,3.3362,Banco Central
+2014-07-01,selic,8.4172,Banco Central
+2014-07-01,ipca,5.3015,IBGE
+2014-07-01,usd_brl,3.2939,Banco Central
+2014-08-01,selic,8.2420,Banco Central
+2014-08-01,ipca,5.4253,IBGE
+2014-08-01,usd_brl,3.2831,Banco Central
+2014-09-01,selic,8.2008,Banco Central
+2014-09-01,ipca,5.5339,IBGE
+2014-09-01,usd_brl,3.3274,Banco Central
+2014-10-01,selic,8.0027,Banco Central
+2014-10-01,ipca,5.6284,IBGE
+2014-10-01,usd_brl,3.2974,Banco Central
+2014-11-01,selic,7.8801,Banco Central
+2014-11-01,ipca,5.5656,IBGE
+2014-11-01,usd_brl,3.2706,Banco Central
+2014-12-01,selic,7.8723,Banco Central
+2014-12-01,ipca,5.4280,IBGE
+2014-12-01,usd_brl,3.3310,Banco Central
+2015-01-01,selic,7.6729,Banco Central
+2015-01-01,ipca,5.5364,IBGE
+2015-01-01,usd_brl,3.2555,Banco Central
+2015-02-01,selic,7.5424,Banco Central
+2015-02-01,ipca,5.6655,IBGE
+2015-02-01,usd_brl,3.2572,Banco Central
+2015-03-01,selic,7.5924,Banco Central
+2015-03-01,ipca,5.5362,IBGE
+2015-03-01,usd_brl,3.3669,Banco Central
+2015-04-01,selic,7.6004,Banco Central
+2015-04-01,ipca,5.5270,IBGE
+2015-04-01,usd_brl,3.4761,Banco Central
+2015-05-01,selic,7.4785,Banco Central
+2015-05-01,ipca,5.3927,IBGE
+2015-05-01,usd_brl,3.4007,Banco Central
+2015-06-01,selic,7.5042,Banco Central
+2015-06-01,ipca,5.4659,IBGE
+2015-06-01,usd_brl,3.3534,Banco Central
+2015-07-01,selic,7.6180,Banco Central
+2015-07-01,ipca,5.5407,IBGE
+2015-07-01,usd_brl,3.3164,Banco Central
+2015-08-01,selic,7.4106,Banco Central
+2015-08-01,ipca,5.4242,IBGE
+2015-08-01,usd_brl,3.4131,Banco Central
+2015-09-01,selic,7.5229,Banco Central
+2015-09-01,ipca,5.4118,IBGE
+2015-09-01,usd_brl,3.4992,Banco Central
+2015-10-01,selic,7.5922,Banco Central
+2015-10-01,ipca,5.4217,IBGE
+2015-10-01,usd_brl,3.5851,Banco Central
+2015-11-01,selic,7.5183,Banco Central
+2015-11-01,ipca,5.3462,IBGE
+2015-11-01,usd_brl,3.5690,Banco Central
+2015-12-01,selic,7.3705,Banco Central
+2015-12-01,ipca,5.4530,IBGE
+2015-12-01,usd_brl,3.5105,Banco Central
+2016-01-01,selic,7.5434,Banco Central
+2016-01-01,ipca,5.4249,IBGE
+2016-01-01,usd_brl,3.5873,Banco Central
+2016-02-01,selic,7.4680,Banco Central
+2016-02-01,ipca,5.3334,IBGE
+2016-02-01,usd_brl,3.6380,Banco Central
+2016-03-01,selic,7.2951,Banco Central
+2016-03-01,ipca,5.3402,IBGE
+2016-03-01,usd_brl,3.6703,Banco Central
+2016-04-01,selic,7.1238,Banco Central
+2016-04-01,ipca,5.4042,IBGE
+2016-04-01,usd_brl,3.7778,Banco Central
+2016-05-01,selic,7.2528,Banco Central
+2016-05-01,ipca,5.3096,IBGE
+2016-05-01,usd_brl,3.8186,Banco Central
+2016-06-01,selic,7.2843,Banco Central
+2016-06-01,ipca,5.2481,IBGE
+2016-06-01,usd_brl,3.7301,Banco Central
+2016-07-01,selic,7.3971,Banco Central
+2016-07-01,ipca,5.3916,IBGE
+2016-07-01,usd_brl,3.8036,Banco Central
+2016-08-01,selic,7.4790,Banco Central
+2016-08-01,ipca,5.4316,IBGE
+2016-08-01,usd_brl,3.7734,Banco Central
+2016-09-01,selic,7.4835,Banco Central
+2016-09-01,ipca,5.4080,IBGE
+2016-09-01,usd_brl,3.8161,Banco Central
+2016-10-01,selic,7.6628,Banco Central
+2016-10-01,ipca,5.4083,IBGE
+2016-10-01,usd_brl,3.9139,Banco Central
+2016-11-01,selic,7.6042,Banco Central
+2016-11-01,ipca,5.2896,IBGE
+2016-11-01,usd_brl,3.8508,Banco Central
+2016-12-01,selic,7.6150,Banco Central
+2016-12-01,ipca,5.2020,IBGE
+2016-12-01,usd_brl,3.7838,Banco Central
+2017-01-01,selic,7.7368,Banco Central
+2017-01-01,ipca,5.1484,IBGE
+2017-01-01,usd_brl,3.7153,Banco Central
+2017-02-01,selic,7.7742,Banco Central
+2017-02-01,ipca,5.1699,IBGE
+2017-02-01,usd_brl,3.7359,Banco Central
+2017-03-01,selic,7.9088,Banco Central
+2017-03-01,ipca,5.0839,IBGE
+2017-03-01,usd_brl,3.7004,Banco Central
+2017-04-01,selic,7.9298,Banco Central
+2017-04-01,ipca,4.9950,IBGE
+2017-04-01,usd_brl,3.7313,Banco Central
+2017-05-01,selic,8.0016,Banco Central
+2017-05-01,ipca,4.8613,IBGE
+2017-05-01,usd_brl,3.7849,Banco Central
+2017-06-01,selic,7.8099,Banco Central
+2017-06-01,ipca,4.8956,IBGE
+2017-06-01,usd_brl,3.7356,Banco Central
+2017-07-01,selic,7.6911,Banco Central
+2017-07-01,ipca,4.8093,IBGE
+2017-07-01,usd_brl,3.7724,Banco Central
+2017-08-01,selic,7.5969,Banco Central
+2017-08-01,ipca,4.9260,IBGE
+2017-08-01,usd_brl,3.7352,Banco Central
+2017-09-01,selic,7.4188,Banco Central
+2017-09-01,ipca,5.0288,IBGE
+2017-09-01,usd_brl,3.7429,Banco Central
+2017-10-01,selic,7.3019,Banco Central
+2017-10-01,ipca,4.8951,IBGE
+2017-10-01,usd_brl,3.8340,Banco Central
+2017-11-01,selic,7.1323,Banco Central
+2017-11-01,ipca,4.8115,IBGE
+2017-11-01,usd_brl,3.9132,Banco Central
+2017-12-01,selic,7.0335,Banco Central
+2017-12-01,ipca,4.8572,IBGE
+2017-12-01,usd_brl,3.8417,Banco Central
+2018-01-01,selic,7.0778,Banco Central
+2018-01-01,ipca,4.7665,IBGE
+2018-01-01,usd_brl,3.8364,Banco Central
+2018-02-01,selic,7.0137,Banco Central
+2018-02-01,ipca,4.6512,IBGE
+2018-02-01,usd_brl,3.8017,Banco Central
+2018-03-01,selic,6.9518,Banco Central
+2018-03-01,ipca,4.7768,IBGE
+2018-03-01,usd_brl,3.7124,Banco Central
+2018-04-01,selic,6.8256,Banco Central
+2018-04-01,ipca,4.7931,IBGE
+2018-04-01,usd_brl,3.7767,Banco Central
+2018-05-01,selic,6.7224,Banco Central
+2018-05-01,ipca,4.7799,IBGE
+2018-05-01,usd_brl,3.8141,Banco Central
+2018-06-01,selic,6.8870,Banco Central
+2018-06-01,ipca,4.8603,IBGE
+2018-06-01,usd_brl,3.7765,Banco Central
+2018-07-01,selic,6.9362,Banco Central
+2018-07-01,ipca,4.9476,IBGE
+2018-07-01,usd_brl,3.8347,Banco Central
+2018-08-01,selic,6.9699,Banco Central
+2018-08-01,ipca,4.8497,IBGE
+2018-08-01,usd_brl,3.8551,Banco Central
+2018-09-01,selic,6.8283,Banco Central
+2018-09-01,ipca,4.7238,IBGE
+2018-09-01,usd_brl,3.8506,Banco Central
+2018-10-01,selic,6.9100,Banco Central
+2018-10-01,ipca,4.6981,IBGE
+2018-10-01,usd_brl,3.7625,Banco Central
+2018-11-01,selic,6.7653,Banco Central
+2018-11-01,ipca,4.6702,IBGE
+2018-11-01,usd_brl,3.6876,Banco Central
+2018-12-01,selic,6.7071,Banco Central
+2018-12-01,ipca,4.6553,IBGE
+2018-12-01,usd_brl,3.7742,Banco Central
+2019-01-01,selic,6.8929,Banco Central
+2019-01-01,ipca,4.7190,IBGE
+2019-01-01,usd_brl,3.8650,Banco Central
+2019-02-01,selic,6.9389,Banco Central
+2019-02-01,ipca,4.7660,IBGE
+2019-02-01,usd_brl,3.8841,Banco Central
+2019-03-01,selic,6.9517,Banco Central
+2019-03-01,ipca,4.9062,IBGE
+2019-03-01,usd_brl,3.9610,Banco Central
+2019-04-01,selic,7.0156,Banco Central
+2019-04-01,ipca,4.7808,IBGE
+2019-04-01,usd_brl,3.9875,Banco Central
+2019-05-01,selic,7.1427,Banco Central
+2019-05-01,ipca,4.7466,IBGE
+2019-05-01,usd_brl,3.9271,Banco Central
+2019-06-01,selic,7.2431,Banco Central
+2019-06-01,ipca,4.6933,IBGE
+2019-06-01,usd_brl,3.8626,Banco Central
+2019-07-01,selic,7.1247,Banco Central
+2019-07-01,ipca,4.7968,IBGE
+2019-07-01,usd_brl,3.8343,Banco Central
+2019-08-01,selic,6.9276,Banco Central
+2019-08-01,ipca,4.7164,IBGE
+2019-08-01,usd_brl,3.9241,Banco Central
+2019-09-01,selic,6.8437,Banco Central
+2019-09-01,ipca,4.6185,IBGE
+2019-09-01,usd_brl,3.9933,Banco Central
+2019-10-01,selic,6.7408,Banco Central
+2019-10-01,ipca,4.5981,IBGE
+2019-10-01,usd_brl,4.0754,Banco Central
+2019-11-01,selic,6.6152,Banco Central
+2019-11-01,ipca,4.5697,IBGE
+2019-11-01,usd_brl,4.1652,Banco Central
+2019-12-01,selic,6.7824,Banco Central
+2019-12-01,ipca,4.4982,IBGE
+2019-12-01,usd_brl,4.1172,Banco Central
+2020-01-01,selic,6.9229,Banco Central
+2020-01-01,ipca,4.4182,IBGE
+2020-01-01,usd_brl,4.0771,Banco Central
+2020-02-01,selic,6.8388,Banco Central
+2020-02-01,ipca,4.5401,IBGE
+2020-02-01,usd_brl,4.0077,Banco Central
+2020-03-01,selic,6.8910,Banco Central
+2020-03-01,ipca,4.5181,IBGE
+2020-03-01,usd_brl,4.0737,Banco Central
+2020-04-01,selic,6.8392,Banco Central
+2020-04-01,ipca,4.6215,IBGE
+2020-04-01,usd_brl,4.1606,Banco Central
+2020-05-01,selic,6.9951,Banco Central
+2020-05-01,ipca,4.6316,IBGE
+2020-05-01,usd_brl,4.1518,Banco Central
+2020-06-01,selic,6.9686,Banco Central
+2020-06-01,ipca,4.4918,IBGE
+2020-06-01,usd_brl,4.1860,Banco Central
+2020-07-01,selic,6.8646,Banco Central
+2020-07-01,ipca,4.6365,IBGE
+2020-07-01,usd_brl,4.1269,Banco Central
+2020-08-01,selic,6.7532,Banco Central
+2020-08-01,ipca,4.7324,IBGE
+2020-08-01,usd_brl,4.2228,Banco Central
+2020-09-01,selic,6.7678,Banco Central
+2020-09-01,ipca,4.8681,IBGE
+2020-09-01,usd_brl,4.3058,Banco Central
+2020-10-01,selic,6.6629,Banco Central
+2020-10-01,ipca,4.9910,IBGE
+2020-10-01,usd_brl,4.4110,Banco Central
+2020-11-01,selic,6.6867,Banco Central
+2020-11-01,ipca,5.0906,IBGE
+2020-11-01,usd_brl,4.4832,Banco Central
+2020-12-01,selic,6.8358,Banco Central
+2020-12-01,ipca,4.9855,IBGE
+2020-12-01,usd_brl,4.5694,Banco Central
+2021-01-01,selic,6.7856,Banco Central
+2021-01-01,ipca,4.9762,IBGE
+2021-01-01,usd_brl,4.4844,Banco Central
+2021-02-01,selic,6.6633,Banco Central
+2021-02-01,ipca,4.8853,IBGE
+2021-02-01,usd_brl,4.5417,Banco Central
+2021-03-01,selic,6.8523,Banco Central
+2021-03-01,ipca,4.8506,IBGE
+2021-03-01,usd_brl,4.5182,Banco Central
+2021-04-01,selic,6.8461,Banco Central
+2021-04-01,ipca,4.7132,IBGE
+2021-04-01,usd_brl,4.6143,Banco Central
+2021-05-01,selic,6.6725,Banco Central
+2021-05-01,ipca,4.6719,IBGE
+2021-05-01,usd_brl,4.6848,Banco Central
+2021-06-01,selic,6.4813,Banco Central
+2021-06-01,ipca,4.8125,IBGE
+2021-06-01,usd_brl,4.7676,Banco Central
+2021-07-01,selic,6.3152,Banco Central
+2021-07-01,ipca,4.7370,IBGE
+2021-07-01,usd_brl,4.8397,Banco Central
+2021-08-01,selic,6.3562,Banco Central
+2021-08-01,ipca,4.8172,IBGE
+2021-08-01,usd_brl,4.8031,Banco Central
+2021-09-01,selic,6.4630,Banco Central
+2021-09-01,ipca,4.7988,IBGE
+2021-09-01,usd_brl,4.8706,Banco Central
+2021-10-01,selic,6.4219,Banco Central
+2021-10-01,ipca,4.7707,IBGE
+2021-10-01,usd_brl,4.8022,Banco Central
+2021-11-01,selic,6.2373,Banco Central
+2021-11-01,ipca,4.9028,IBGE
+2021-11-01,usd_brl,4.8866,Banco Central
+2021-12-01,selic,6.1799,Banco Central
+2021-12-01,ipca,5.0465,IBGE
+2021-12-01,usd_brl,4.9683,Banco Central
+2022-01-01,selic,6.3684,Banco Central
+2022-01-01,ipca,5.0582,IBGE
+2022-01-01,usd_brl,4.9228,Banco Central
+2022-02-01,selic,6.3700,Banco Central
+2022-02-01,ipca,5.1187,IBGE
+2022-02-01,usd_brl,4.9961,Banco Central
+2022-03-01,selic,6.5485,Banco Central
+2022-03-01,ipca,5.0102,IBGE
+2022-03-01,usd_brl,4.9982,Banco Central
+2022-04-01,selic,6.6828,Banco Central
+2022-04-01,ipca,4.9442,IBGE
+2022-04-01,usd_brl,4.9692,Banco Central
+2022-05-01,selic,6.4774,Banco Central
+2022-05-01,ipca,5.0798,IBGE
+2022-05-01,usd_brl,5.0383,Banco Central
+2022-06-01,selic,6.5557,Banco Central
+2022-06-01,ipca,5.0985,IBGE
+2022-06-01,usd_brl,4.9938,Banco Central
+2022-07-01,selic,6.6183,Banco Central
+2022-07-01,ipca,5.1062,IBGE
+2022-07-01,usd_brl,4.9086,Banco Central
+2022-08-01,selic,6.6231,Banco Central
+2022-08-01,ipca,5.1756,IBGE
+2022-08-01,usd_brl,4.8572,Banco Central
+2022-09-01,selic,6.5199,Banco Central
+2022-09-01,ipca,5.0377,IBGE
+2022-09-01,usd_brl,4.8328,Banco Central
+2022-10-01,selic,6.5662,Banco Central
+2022-10-01,ipca,5.0580,IBGE
+2022-10-01,usd_brl,4.9157,Banco Central
+2022-11-01,selic,6.4009,Banco Central
+2022-11-01,ipca,5.0539,IBGE
+2022-11-01,usd_brl,5.0191,Banco Central
+2022-12-01,selic,6.3648,Banco Central
+2022-12-01,ipca,5.1547,IBGE
+2022-12-01,usd_brl,4.9849,Banco Central
+2023-01-01,selic,6.3363,Banco Central
+2023-01-01,ipca,5.0469,IBGE
+2023-01-01,usd_brl,5.0232,Banco Central
+2023-02-01,selic,6.5078,Banco Central
+2023-02-01,ipca,5.1801,IBGE
+2023-02-01,usd_brl,5.0131,Banco Central
+2023-03-01,selic,6.6481,Banco Central
+2023-03-01,ipca,5.0492,IBGE
+2023-03-01,usd_brl,5.1194,Banco Central
+2023-04-01,selic,6.5435,Banco Central
+2023-04-01,ipca,4.9499,IBGE
+2023-04-01,usd_brl,5.1366,Banco Central
+2023-05-01,selic,6.5337,Banco Central
+2023-05-01,ipca,4.9734,IBGE
+2023-05-01,usd_brl,5.2345,Banco Central
+2023-06-01,selic,6.3952,Banco Central
+2023-06-01,ipca,5.0210,IBGE
+2023-06-01,usd_brl,5.1675,Banco Central
+2023-07-01,selic,6.5502,Banco Central
+2023-07-01,ipca,4.9366,IBGE
+2023-07-01,usd_brl,5.2716,Banco Central
+2023-08-01,selic,6.6884,Banco Central
+2023-08-01,ipca,4.8175,IBGE
+2023-08-01,usd_brl,5.2173,Banco Central
+2023-09-01,selic,6.5978,Banco Central
+2023-09-01,ipca,4.9296,IBGE
+2023-09-01,usd_brl,5.3198,Banco Central
+2023-10-01,selic,6.6434,Banco Central
+2023-10-01,ipca,4.8485,IBGE
+2023-10-01,usd_brl,5.2829,Banco Central
+2023-11-01,selic,6.6770,Banco Central
+2023-11-01,ipca,4.8718,IBGE
+2023-11-01,usd_brl,5.2146,Banco Central
+2023-12-01,selic,6.5281,Banco Central
+2023-12-01,ipca,4.9026,IBGE
+2023-12-01,usd_brl,5.2115,Banco Central
