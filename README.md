@@ -177,4 +177,4 @@ make lint
 
 ## Autor
 
-miguel
+Miguel Zuchelli Rodrigues

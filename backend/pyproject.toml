@@ -2,7 +2,7 @@
 name = "economic-indicators-backend"
 version = "0.1.0"
 description = "API de indicadores econômicos"
-authors = ["miguel"]
+authors = ["Miguel Zuchelli Rodrigues"]
 readme = "README.md"
 packages = [{ include = "app" }]
 
