@@ -13,6 +13,7 @@ def create_client(tmp_path: Path) -> TestClient:
     os.environ["DATA_PATH"] = str(data_dst)
     os.environ["DB_PATH"] = str(tmp_path / "app.db")
     import app.main
+
     importlib.reload(app.main)
     return TestClient(app.main.app)
 
