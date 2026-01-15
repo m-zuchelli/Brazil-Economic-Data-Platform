@@ -1,6 +1,6 @@
 # Economic-indicators-dashboard
 
-![ci](https://github.com/miguel/economic-indicators-dashboard/actions/workflows/ci.yml/badge.svg)
+[![ci](https://github.com/m-zuchelli/Brazil-Economic-Data-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/m-zuchelli/Brazil-Economic-Data-Platform/actions/workflows/ci.yml)
 
 ## Visão geral
 
