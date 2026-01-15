@@ -1,4 +1,4 @@
-# economic-indicators-dashboard
+# Economic-indicators-dashboard
 
 ![ci](https://github.com/miguel/economic-indicators-dashboard/actions/workflows/ci.yml/badge.svg)
 
