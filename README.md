@@ -28,17 +28,7 @@ Organizações precisam visualizar indicadores econômicos sem depender de APIs 
                                               +-----------------+
 ```
 
-## Estrutura do repositório
 
-```
-.
-├── backend
-├── frontend
-├── data
-├── docker-compose.yml
-├── Makefile
-└── .github/workflows/ci.yml
-```
 
 ## Como rodar com Docker
 
@@ -175,6 +165,4 @@ make lint
 - Exportação de relatórios em PDF.
 - Deploy automatizado em cloud.
 
-## Autor
 
-Miguel Zuchelli Rodrigues
